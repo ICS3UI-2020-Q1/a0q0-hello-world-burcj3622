@@ -10,6 +10,6 @@ public class Main {
    */
   public static void main(String[] args) {
     // Print "hello world" to the consle
-    System.out.println("hello world");
+    System.out.println("Hello World");
   }
 }
